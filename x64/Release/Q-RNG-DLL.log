@@ -1,0 +1,67 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  QGenerator.cpp
+C:\Users\nicul\source\repos\Q-RNG\Q-RNG-DLL\src\QGenerator\QGenerator.cpp(25,54): warning C4267: 'argument': conversion from 'size_t' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\nicul\source\repos\Q-RNG\Q-RNG-DLL\src\QGenerator\QGenerator.cpp(25,91): warning C4267: 'argument': conversion from 'size_t' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\nicul\source\repos\Q-RNG\Q-RNG-DLL\src\QGenerator\QGenerator.cpp(30,53): warning C4267: 'argument': conversion from 'size_t' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\nicul\source\repos\Q-RNG\Q-RNG-DLL\src\QGenerator\QGenerator.cpp(30,90): warning C4267: 'argument': conversion from 'size_t' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\nicul\source\repos\Q-RNG\Q-RNG-DLL\src\QGenerator\QGenerator.cpp(36,112): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nicul\source\repos\Q-RNG\Q-RNG-DLL\src\QGenerator\QGenerator.cpp(114,39): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\nicul\source\repos\Q-RNG\Q-RNG-DLL\src\QGenerator\QGenerator.cpp(114,33): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\nicul\source\repos\Q-RNG\Q-RNG-DLL\src\QGenerator\QGenerator.cpp(116,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nicul\source\repos\Q-RNG\Q-RNG-DLL\src\QGenerator\QGenerator.cpp(116,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nicul\source\repos\Q-RNG\Q-RNG-DLL\src\QGenerator\QGenerator.cpp(123,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nicul\source\repos\Q-RNG\Q-RNG-DLL\src\QGenerator\QGenerator.cpp(123,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nicul\source\repos\Q-RNG\Q-RNG-DLL\src\QGenerator\QGenerator.cpp(132,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nicul\source\repos\Q-RNG\Q-RNG-DLL\src\QGenerator\QGenerator.cpp(132,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nicul\source\repos\Q-RNG\Q-RNG-DLL\src\QGenerator\QGenerator.cpp(352,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nicul\source\repos\Q-RNG\Q-RNG-DLL\src\QGenerator\QGenerator.cpp(354,112): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\nicul\source\repos\Q-RNG\Q-RNG-DLL\src\QGenerator\QGenerator.cpp(354,54): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\nicul\source\repos\Q-RNG\Q-RNG-DLL\src\QGenerator\QGenerator.cpp(355,50): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\nicul\source\repos\Q-RNG\Q-RNG-DLL\src\QGenerator\QGenerator.cpp(355,27): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+     Creating library C:\Users\nicul\source\repos\Q-RNG\DLLControl\bin\Release\Q-RNG-DLL.lib and object C:\Users\nicul\source\repos\Q-RNG\DLLControl\bin\Release\Q-RNG-DLL.exp
+  Generating code
+  5 of 573 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    27 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Q-RNG-DLL.vcxproj -> C:\Users\nicul\source\repos\Q-RNG\DLLControl\bin\Release\Q-RNG-DLL.dll
